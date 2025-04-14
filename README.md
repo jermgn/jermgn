@@ -1,6 +1,6 @@
 # Salut, moi c'est Jérémy 👋🏼
 
-🎓 Étudiant en Master 1 Technologies Nouvelles des Systèmes d'Information & Décisionnels à l'INSA Hauts-de-France  
+🎓 Étudiant en Master Technologies Nouvelles des Systèmes d'Information & Décisionnels à l'INSA Hauts-de-France  
 👨🏼‍💻 Passionné de développement **full-stack**, orienté **Vue.js**, **Vite**, **TypeScript** & **Swift**  
 🎯 J’aime concevoir des applications avec un code propre, une logique claire et un design minimaliste  
 
