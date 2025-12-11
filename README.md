@@ -1,45 +1,66 @@
-# Salut, moi c'est Jérémy 👋🏼
+# 👋🏼 Jérémy Monguin
 
-🎓 Étudiant en Master 2 **Technologies Nouvelles des Systèmes d’Information et Décisionnels (TNSID)** à l’INSA Hauts-de-France  
-💻 Passionné par le **développement full-stack**, la **modélisation de systèmes d’information** et l’**analyse de données**.  
-🚀 Actuellement à la **recherche d’un stage de fin d’études (mars 2026)**.  
+Étudiant en **Master 2 TNSID (Technologies Nouvelles des Systèmes d’Information & Décisionnels)** à l’**INSA Hauts-de-France**, passionné par le **développement logiciel**, les **systèmes d’information** et les **architectures applicatives**.
 
----
-
-## 🧠 À propos de moi  
-- 🧩 J’aime concevoir des **solutions numériques utiles et performantes**.
-- 🌱 Je m’intéresse à la **cybersécurité**, aux **systèmes distribués** et à la **visualisation de données**.  
-- 🧠 Mon parcours mêle **informatique**, **data** et **psychologie**, me donnant une vision à la fois technique et humaine.  
-- 💬 J’apprécie le travail en équipe, le partage de connaissances et les projets concrets à impact réel.  
+Je recherche un **stage de fin d’études de 6 mois à partir de mars 2026**, idéalement dans les domaines suivants :  
+**développement backend, web, systèmes d’information ou data**.
 
 ---
 
-## 💼 Projets récents  
-| 🧩 Projet | Description | Technologies |
-|-----------|--------------|---------------|
-| 🕹️ **Othello IA** | Jeu Othello avec intelligence artificielle, moteur de décision et interface graphique. | Python |
-| 🚢 **Simulateur de transport de conteneurs** | Application simulant la logistique de transport et la répartition des conteneurs. | Java / Python |
-| 🩺 **Planificateur de plannings infirmiers** | Générateur automatique d’emplois du temps avec contraintes et optimisation. | Python / MiniZinc |
-| 🧱 **Générateur automatique de code** | Script de génération automatisée de structures logicielles. | Node.js |
-| 🛍️ **Basic Form Nutrition** | Site e-commerce sous WordPress/WooCommerce pour salle de sport et boutique. | PHP / WordPress |
-| 🪶 **La Maison de Maya** | Site vitrine en Vue.js/Vite hébergé sur OVH. | Vue.js / JavaScript |
+## 🚀 Compétences
+
+### 🔧 Développement & Backend
+- Java, Python, PHP, JavaScript, TypeScript  
+- Spring Boot, Spring Security, JWT  
+- Symfony, Node.js  
+- API REST, architecture en couches
+
+### 🎨 Web & Frontend
+- HTML, CSS  
+- React.js, Vue.js  
+- Tailwind CSS
+
+### 🗄️ Données & Modélisation
+- PostgreSQL  
+- UML, Merise  
+- Power BI, Excel avancé
+
+### 🛠️ Outils, DevOps & Méthodes
+- Docker, Git / GitHub, Maven  
+- IntelliJ IDEA, VS Code, Figma, Notion  
+- Méthodes Agiles (Scrum, Kanban)
 
 ---
 
-## 🧰 Stack technique  
-**Langages :** Java, Python, JavaScript, SQL, HTML, CSS  
-**Frameworks :** Vue.js, Node.js, Express.js  
-**Outils :** Docker, Git, GitHub, Figma, Notion, Weka  
-**Concepts :** UML, Merise, POO, Analyse de données, Sécurité, Gestion de projet agile  
+### 🗣️ CommobWeb – Application web d’aide à la communication (en cours)
+Application web en **PHP Symfony** destinée à faciliter la communication pour des personnes en situation de handicap.  
+- Intégration d’un module **Flask (Python)** via API  
+- Géolocalisation contextuelle (lieux → suggestions adaptées)  
+- Reconnaissance vocale & analyse du langage (**Speech-to-Text, SpaCy, IA Groq**)  
+- Accessibilité avancée : gros boutons, joystick, navigation assistée, commande vocale  
+➡️ Projet technique et social orienté **accessibilité**
 
 ---
 
-## 📫 Me contacter  
-📍 Valenciennes, France  
-📧 **jeremy.monguin@uphf.fr**  
-🔗 [LinkedIn](https://linkedin.com/in/jermgn)  
-💻 [Portfolio (bientôt disponible)](#)
+## 📁 Projets
+
+### 🔧 PartsFlow – Gestion industrielle (Backend)
+Backend complet en **Java / Spring Boot** pour la gestion de pièces, utilisateurs et processus de validation en contexte industriel.  
+- API REST sécurisée (**JWT**)  
+- Persistance **PostgreSQL & JPA/Hibernate**  
+- Déploiement avec **Docker & Docker Compose**  
+- Architecture propre, évolutive  
+➡️ Projet conçu comme un **MVP professionnel**
 
 ---
 
-✨ *“Créer, comprendre et améliorer les systèmes qui font avancer le numérique.”*
+## 🎯 Objectif
+Concevoir des solutions robustes, accessibles et bien pensées, tout en améliorant continuellement mes compétences techniques au sein d’une équipe dynamique.
+
+---
+
+## 📫 Me contacter
+- 📧 **jeremy.monguin@uphf.fr**  
+- 🔗 **LinkedIn :** https://www.linkedin.com/in/jermgn  
+- 📍 Saint-Quentin (02100)  
+- 🚗 Permis B – Mobilité possible
