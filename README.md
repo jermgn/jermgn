@@ -32,6 +32,8 @@ Je recherche un **stage de fin d’études de 6 mois à partir de mars 2026**, i
 
 ---
 
+## 📁 Projets
+
 ### 🗣️ CommobWeb – Application web d’aide à la communication (en cours)
 Application web en **PHP Symfony** destinée à faciliter la communication pour des personnes en situation de handicap.  
 - Intégration d’un module **Flask (Python)** via API  
@@ -39,10 +41,6 @@ Application web en **PHP Symfony** destinée à faciliter la communication pour 
 - Reconnaissance vocale & analyse du langage (**Speech-to-Text, SpaCy, IA Groq**)  
 - Accessibilité avancée : gros boutons, joystick, navigation assistée, commande vocale  
 ➡️ Projet technique et social orienté **accessibilité**
-
----
-
-## 📁 Projets
 
 ### 🔧 PartsFlow – Gestion industrielle (Backend)
 Backend complet en **Java / Spring Boot** pour la gestion de pièces, utilisateurs et processus de validation en contexte industriel.  
