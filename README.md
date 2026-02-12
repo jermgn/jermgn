@@ -2,9 +2,6 @@
 
 Étudiant en **Master 2 TNSID (Technologies Nouvelles des Systèmes d’Information & Décisionnels)** à l’**INSA Hauts-de-France**, passionné par le **développement logiciel**, les **systèmes d’information** et les **architectures applicatives**.
 
-Je recherche un **stage de fin d’études de 6 mois à partir de mars 2026**, idéalement dans les domaines suivants :  
-**développement backend, web, systèmes d’information ou data**.
-
 ---
 
 ## 🚀 Compétences
